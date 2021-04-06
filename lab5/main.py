@@ -19,10 +19,12 @@ def unique_images():
          
     
     
-    
+    count = 0
     for found in full_result.items():
         if found[1] ==1:
             print(found)
+            count += 1
+    print(count)
 
 if __name__ == '__main__':
     unique_images()
