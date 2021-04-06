@@ -1,0 +1,10 @@
+# Python_Lab_5
+# Python_Lab_5
+
+Порахувати кількість унікальних зображень  (в кінці стрічки запиту має бути закінчення png, jpeg, jpg, gif) які були повернуті сервером між 01:59 до 16:27 кожного дня 
+Лог файл: "access_log.txt"
+
+# To run the program:
+- Clone lab_5 branch
+- Go into repo folder
+- Type "python main.py"
