@@ -1,4 +1,4 @@
-package ua.lviv.iot.sport.enums;
+package ua.lviv.iot.sport;
 
 public enum SortOrder {
     ASC,
