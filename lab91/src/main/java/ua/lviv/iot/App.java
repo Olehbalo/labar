@@ -8,7 +8,6 @@ import ua.lviv.iot.sport.SortOrder;
 import java.util.ArrayList;
 import java.util.List;
 
-
 public class App {
     public static void main(final String[]args) {
         List<Athletics> listOfAthletics = new ArrayList<>();
@@ -42,4 +41,3 @@ public class App {
     }
 
 }
-
